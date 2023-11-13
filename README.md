@@ -17,5 +17,6 @@ BokiDoki 心跳美化部整合包<br>
 <details>
 <summary>点击展开</summary>
 <br>
-> 2023.11.14
+- 2023.11.14
+  
 </details>
