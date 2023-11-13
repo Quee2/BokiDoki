@@ -5,6 +5,7 @@ BokiDoki 心跳美化部整合包<br>
 
 ---
 # 致谢名单
+<details>
 <summary>点击展开</summary>
 > 人
 
