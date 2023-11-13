@@ -8,7 +8,7 @@ BokiDoki 心跳美化部整合包<br>
 <details>
 <summary>点击展开</summary>
 > 人
-
+</details>
 ---
 
 # 更新日志
@@ -16,3 +16,4 @@ BokiDoki 心跳美化部整合包<br>
 <summary>点击展开</summary>
   
 > 2023.11.14
+</details>
