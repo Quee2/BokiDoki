@@ -6,9 +6,12 @@ BokiDoki 心跳美化部整合包<br>
 ---
 # 致谢名单
 <summary>点击展开</summary>
+> 人
+
 ---
 
 # 更新日志
 <details>
 <summary>点击展开</summary>
+  
 > 2023.11.14
