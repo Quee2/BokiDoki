@@ -1,6 +1,7 @@
 # BokiDoki 心跳美化部整合包
 密码：**bokidoki**
-下载方式 see -> [releases][releases-latest]
+下载方式 see -> [release](http://arryblog.com)
+[release]: https://github.com/BokiDoki-Beautification-Department/BokiDoki/releases/latest
 
 ---
 # 致谢名单
