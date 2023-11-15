@@ -55,7 +55,6 @@ Nightcat<br>
 小阿三の救赎之旅<br>
 死扛其实很好吃<br>
 我明香雪兔<br>
-
 </details>
 
 
@@ -64,5 +63,7 @@ Nightcat<br>
 # 更新日志
 <details>
 <summary>点击展开</summary>
-> 2023.11.14
+> 2023.11.15 - v1.0.1 - 修复v1.0.0的bug<br>
+> 2023.11.14 - v1.0.0
 </details>
+
