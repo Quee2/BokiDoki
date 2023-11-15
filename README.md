@@ -2,13 +2,13 @@
 密码：**bokidoki**
 下载方式 see -> [release](https://github.com/BokiDoki-Beautification-Department/BokiDoki/releases/latest)
 
-必须加载beauty-selector，pb-mod，以及overfits才能正常使用 -> [下载地址][https://github.com/BokiDoki-Beautification-Department/Meow]
+必须加载beauty-selector，pb-mod，以及overfits才能正常使用 -> [下载地址](https://github.com/BokiDoki-Beautification-Department/Meow)
 
 ---
 # 致谢名单
 <details>
 <summary>点击展开</summary>
-**美化老师**<br>
+==美化老师==<br>
 手抓饼味芝士饼<br>
 A.K.A.撅撅鎮最強伝説と凶暴の噴霧！棠華丁一郎<br>
 Benub<br>
@@ -45,8 +45,8 @@ Nightcat<br>
 甜橙慕斯<br>
 挽风<br>
 我是鬼<br>
-
-**整合组**<br>
+<br>
+==整合组==<br>
 复活吧，我的挚爱<br>
 大家的主人<br>
 星河長眠<br>
