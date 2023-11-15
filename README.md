@@ -2,11 +2,12 @@
 密码：**bokidoki**
 下载方式 see -> [release](https://github.com/BokiDoki-Beautification-Department/BokiDoki/releases/latest)
 
+必须加载beauty-selector，pb-mod，以及overfits才能正常使用 -> [下载地址][https://github.com/BokiDoki-Beautification-Department/Meow]
+
 ---
 # 致谢名单
 <details>
 <summary>点击展开</summary>
-  
 **美化老师**<br>
 手抓饼味芝士饼<br>
 A.K.A.撅撅鎮最強伝説と凶暴の噴霧！棠華丁一郎<br>
@@ -65,4 +66,3 @@ Nightcat<br>
 <summary>点击展开</summary>
 > 2023.11.14
 </details>
-
