@@ -64,6 +64,6 @@ Nightcat<br>
 # 更新日志
 <details>
 <summary>点击展开</summary>
-  > 2023.11.15 - 修复v1.0.0的bug<br>
+  > 2023.11.15 - 修复v1.0.0的bug <br>
   > 2023.11.14
 </details>
