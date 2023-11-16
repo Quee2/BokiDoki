@@ -3,6 +3,7 @@
 下载方式 see -> [release](https://github.com/BokiDoki-Beautification-Department/BokiDoki/releases/latest)
 
 必须加载beauty-selector，pb-mod，以及overfits才能正常使用 -> [下载地址](https://github.com/BokiDoki-Beautification-Department/Meow)
+有问题可直接在Discussions反映，尽量不要在贴吧开贴，贴吧私聊几位负责人出来。
 
 ---
 # 致谢名单
