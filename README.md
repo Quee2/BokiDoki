@@ -3,7 +3,7 @@
 下载方式 see -> [release](https://github.com/BokiDoki-Beautification-Department/BokiDoki/releases/latest)
 
 必须加载beauty-selector，pb-mod，以及overfits才能正常使用 -> [下载地址](https://github.com/BokiDoki-Beautification-Department/Meow)
-有问题可直接在Discussions反映，尽量不要在贴吧开贴，贴吧私聊几位负责人出来。
+有问题可直接在Discussions反映，**尽量不要在贴吧开贴，贴吧私聊几位负责人除外**（开贴一律不理会）。
 
 ---
 # 致谢名单
@@ -67,4 +67,3 @@ Nightcat<br>
 > 2023.11.15 - v1.0.1 - 修复v1.0.0的bug<br>
 > 2023.11.14 - v1.0.0
 </details>
-
