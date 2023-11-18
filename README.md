@@ -1,9 +1,10 @@
 # BokiDoki 心跳美化部整合包
 密码：**bokidoki**
-下载方式 see -> [release](https://github.com/BokiDoki-Beautification-Department/BokiDoki/releases/latest)
+下载方式 see -> [release](https://github.com/BokiDoki-Beautification-Department/BokiDoki/releases/latest) <br>
+默认周末更新，更新频率1-2周视整合组情况而定
 
-必须加载beauty-selector，pb-mod，以及overfits才能正常使用 -> [下载地址](https://github.com/BokiDoki-Beautification-Department/Meow)
-有问题可直接在Discussions反映，**尽量不要在贴吧开贴，贴吧私聊几位负责人除外**（开贴一律不理会）。
+必须加载beauty-selector，pb-mod，以及overfits才能正常使用 -> [下载地址](https://github.com/BokiDoki-Beautification-Department/Meow) <br>
+有问题可直接在 [讨论区](https://github.com/orgs/BokiDoki-Beautification-Department/discussions) 反映，**尽量不要在贴吧开贴，贴吧私聊几位负责人除外**（开贴一律不理会）。
 
 ---
 # 致谢名单
@@ -11,7 +12,8 @@
 <summary>点击展开</summary>
 ==美化老师==<br>
 手抓饼味芝士饼<br>
-A.K.A.撅撅鎮最強伝説と凶暴の噴霧！棠華丁一郎<br>
+A.K.A.撅撅鎮最強伝説と凶暴の噴霧！<br>
+棠華丁一郎<br>
 Benub<br>
 重生之我是芝士蛋糕<br>
 迪克和小..<br>
@@ -64,6 +66,6 @@ Nightcat<br>
 # 更新日志
 <details>
 <summary>点击展开</summary>
-> 2023.11.15 - v1.0.1 - 修复v1.0.0的bug<br>
+> 2023.11.15 - v1.1.0 - 修复v1.0.0的bug，补充icon，添加对mod导入顺序的错误处理<br>
 > 2023.11.14 - v1.0.0
 </details>
